@@ -7,6 +7,6 @@ A Texas A&M style piano keyboard developed in Python using QT Designer and the w
 [winsound](https://docs.python.org/3/library/winsound.html)
 
 # Usage
-The following video shows how to use the Aggie Keyboard.
+The following video shows how to use the Aggie Keyboard after compiling and executing project.py with Python.
 
 [![Aggie Keyboard](https://img.youtube.com/vi/ts5m7bkDRc8/0.jpg)](https://www.youtube.com/watch?v=ts5m7bkDRc8)
