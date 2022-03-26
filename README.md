@@ -1,4 +1,4 @@
-# Aggie Keyboard
+# Aggie_Keyboard
 A Texas A&M style piano keyboard developed in Python using QT Designer and the winsound module for HowdyHack 2021. The user is able to freely switch between three audio presets: a Howdy greeting, the Aggie War Hymn, and the Spirit of Aggieland.
 
 # Dependencies
